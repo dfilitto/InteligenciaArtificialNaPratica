@@ -1,0 +1,19 @@
+Template de Apresentação para LinkedIn
+
+Oi, ChatGPT! Gostaria de ajuda para criar uma apresentação otimizada para meu LinkedIn. Aqui estão os meus dados:
+
+Objetivo Profissional: [Aqui você coloca o que está buscando no mercado. Ex.: "Busco minha primeira oportunidade como desenvolvedor web" ou "Quero me recolocar como analista de sistemas".]
+
+Principais Habilidades: [Liste as tecnologias, ferramentas ou habilidades que você mais domina. Ex.: "HTML, CSS, JavaScript, React, Git", "C#, Unity, Game Design", etc.]
+
+Formação Acadêmica: [Informe seus cursos e certificações. Ex.: "Cursando Técnico em Programação de Jogos no Senac", "Graduação em Ciência da Computação", "Certificação em Desenvolvimento Web - Udemy", etc.]
+
+Experiência Profissional e Projetos: [Descreva suas experiências e projetos relevantes. Ex.: "Desenvolvi um site de portfólio com React", "Criei um jogo 2D no Unity como projeto final", etc.]
+
+Link de Portfólio (GitHub, Behance, etc.): [Aqui você coloca o link do seu portfólio ou repositórios. Ex.: "github.com/nomedousuario", "meusite.com", etc.]
+
+Canal no YouTube ou Blog: [Se você tem um canal ou blog, compartilhe o link. Ex.: "youtube.com/nomedocanal", "meublog.com".]
+
+Diferenciais: [Aqui você pode colocar algo que considere um diferencial. Ex.: "Participei de hackathon", "Tenho experiência em projetos voluntários", "Crio conteúdo sobre desenvolvimento de jogos", etc.]
+
+Com essas informações, você poderia me ajudar a criar uma apresentação otimizada para o LinkedIn?
