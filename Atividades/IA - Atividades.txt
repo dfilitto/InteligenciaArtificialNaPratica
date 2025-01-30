@@ -1,0 +1,117 @@
+**ATIVIDADE 1: DESAFIO DOS PROMPTS – OTIMIZANDO A GERAÇÃO DE TEXTOS COM IA**
+
+**Introdução:**  
+A inteligência artificial pode ser uma ferramenta poderosa para criar textos de alta qualidade, mas a forma como formulamos nossas solicitações (prompts) impacta diretamente nos resultados obtidos. Nesta atividade, você aprenderá a melhorar seus prompts para gerar textos mais relevantes e precisos.
+
+**Objetivo:**  
+- Compreender como prompts bem estruturados impactam os textos gerados por IA.  
+- Aprender a refinar solicitações para obter melhores respostas.
+
+**Instruções:**  
+1. Utilize a ferramenta **ChatGPT, Jasper ou Copy.ai**.
+2. Gere um texto usando o seguinte prompt inicial: **"Escreva um artigo sobre tecnologia."**
+3. Agora, melhore esse prompt para torná-lo mais detalhado e específico (por exemplo: *"Escreva um artigo de 500 palavras sobre como a inteligência artificial está revolucionando o mercado de trabalho, incluindo três exemplos de profissões impactadas."*).
+4. Compare os dois textos gerados e analise as diferenças.
+5. Escreva um pequeno relatório respondendo:
+   - Como a qualidade do texto melhorou com um prompt mais específico?
+   - Quais estratégias você usaria para criar prompts ainda mais eficazes?
+6. Apresente seus resultados para a turma.
+
+**Critérios de Avaliação:**  
+- Clareza e especificidade dos prompts melhorados.
+- Qualidade dos textos gerados.
+- Análise crítica da diferença entre os textos.
+
+---
+
+**ATIVIDADE 2: CRIANDO UM INFOGRÁFICO COM IA**
+
+**Introdução:**  
+Os infográficos são ferramentas visuais poderosas para transmitir informações de forma clara e atrativa. Com o uso de inteligência artificial, podemos gerar imagens, diagramas e até sugestões de layout automaticamente.
+
+**Objetivo:**  
+- Criar um infográfico informativo utilizando IA.  
+- Explorar ferramentas de IA para geração de imagens.
+
+**Instruções:**  
+1. Escolha um tema relacionado à IA (ex.: *Impactos da IA na sociedade*, *IA na educação*, *IA no mercado de trabalho*).
+2. Utilize ferramentas como **Canva, Adobe Express ou MidJourney** para criar um **infográfico** contendo:
+   - Uma **imagem gerada por IA**.
+   - Ícones e gráficos que representem as informações.
+   - Pequenos textos explicativos.
+3. Salve sua criação e prepare-se para apresentá-la à turma, explicando como utilizou a IA no processo.
+
+**Critérios de Avaliação:**  
+- Criatividade na organização do infográfico.
+- Clareza e qualidade das informações.
+- Uso adequado das ferramentas de IA.
+
+---
+
+**ATIVIDADE 3: CRIAÇÃO DE UM VÍDEO UTILIZANDO IA**
+
+**Introdução:**  
+A produção de vídeos pode ser otimizada com IA, permitindo a criação de conteúdos dinâmicos sem a necessidade de equipamentos profissionais.
+
+**Objetivo:**  
+- Explorar ferramentas de IA para criar vídeos.  
+- Aprender a transformar roteiros em narrativas visuais.
+
+**Instruções:**  
+1. Escolha um tema (ex.: *História da IA*, *O futuro da inteligência artificial*, *IA na saúde*).
+2. Escreva um roteiro curto (máx. **1 minuto de duração**).
+3. Utilize **Synthesia, HeyGen ou D-ID** para criar um vídeo narrado por um avatar.
+4. Exporte o vídeo e apresente para a turma, explicando as escolhas feitas no processo de criação.
+
+**Critérios de Avaliação:**  
+- Coerência entre roteiro e vídeo gerado.
+- Clareza e criatividade na produção.
+- Uso correto das ferramentas de IA.
+
+---
+
+**ATIVIDADE 4: CRIANDO UMA APRESENTAÇÃO INTERATIVA COM IA**
+
+**Introdução:**  
+As apresentações digitais podem ser otimizadas com IA, facilitando a criação de slides mais organizados e impactantes.
+
+**Objetivo:**  
+- Utilizar IA para criar apresentações profissionais.
+- Aprender a estruturar um conteúdo visual dinâmico.
+
+**Instruções:**  
+1. Escolha um tema de interesse (ex.: *Como a IA está mudando o mundo*).
+2. Utilize **Gamma, Beautiful.ai ou Canva** para criar uma apresentação com **5 slides**.
+3. Utilize a IA para gerar sugestões de layout e organização do conteúdo.
+4. Apresente para a turma, explicando as funcionalidades da ferramenta escolhida.
+
+**Critérios de Avaliação:**  
+- Estruturação e organização dos slides.
+- Clareza e qualidade visual da apresentação.
+- Uso adequado da IA no design.
+
+---
+
+**ATIVIDADE 5: DESAFIO FINAL – CRIAÇÃO DE UM PROJETO MULTIMÍDIA UTILIZANDO IA**
+
+**Introdução:**  
+Agora é o momento de consolidar tudo o que foi aprendido! Você criará um projeto integrando textos, imagens, vídeos e apresentações geradas por IA.
+
+**Objetivo:**  
+- Aplicar todas as ferramentas exploradas no curso.  
+- Criar um projeto multimídia completo utilizando IA.
+
+**Instruções:**  
+1. Escolha um tema livre de interesse.
+2. Crie um projeto multimídia contendo:
+   - **Um texto gerado por IA** (artigo, roteiro, post para redes sociais).
+   - **Uma imagem gerada por IA**.
+   - **Um vídeo curto gerado por IA**.
+   - **Uma apresentação automatizada com IA**.
+3. Organize todo o material e apresente para a turma.
+
+**Critérios de Avaliação:**  
+- Criatividade e integração dos diferentes formatos de mídia.
+- Justificativa das escolhas feitas.
+- Coerência e qualidade do conteúdo produzido.
+
